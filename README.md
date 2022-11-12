@@ -1,8 +1,5 @@
-
-<p align="center">
-  ### Hi there 👋
+### Hi there 👋
   ![giphy (4)](https://user-images.githubusercontent.com/77657205/201484517-9096c9a8-cc2a-4399-913c-c575ff7894a7.gif)
-</p>
 
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
