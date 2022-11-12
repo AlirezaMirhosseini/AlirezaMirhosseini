@@ -2,10 +2,10 @@
   ### Hi there, I'm Alireza Mirhosseini 👋
 </h1>
 
-  <img align="center" src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/giphy%20(4).gif" alt="animated" />
-<!-- ![giphy (4)](https://user-images.githubusercontent.com/77657205/201484517-9096c9a8-cc2a-4399-913c-c575ff7894a7.gif) -->
+![header](https://capsule-render.vercel.app/api?text=SHAPOUR&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+<img src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/giphy%20(4).gif" alt="animated" />
+<!-- ![giphy (4)](https://user-images.githubusercontent.com/77657205/201484517-9096c9a8-cc2a-4399-913c-c575ff7894a7.gif) -->
 
 <!--
 **AlirezaMirhosseini/AlirezaMirhosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
