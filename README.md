@@ -11,6 +11,20 @@
 </p>
 
 <h2>
+   Github stats
+</h2>
+
+<p align="center">
+   <img height="200" src="https://github-readme-stats.vercel.app/api?username=AlirezaMirhosseini&show_icons=true&theme=radical" />
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaMirhosseini&layout=compact&theme=radical" />
+</p>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaMirhosseini&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaMirhosseini&layout=compact&theme=radical)](https://github.com/AlirezaMirhosseini/github-readme-stats) -->
+
+<!-- AlirezaMirhosseini -->
+
+<h2>
    Some Tools I've used and Learned
 </h2>
 
@@ -39,16 +53,17 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/alireza-mirhosseini-70712720b/">
-      <img width="70" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="My Linkedin" />
+      <img width="65" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="My Linkedin" />
    </a>
+<!--    <p width="5"> </p> -->
    <a href="https://t.me/alirezamirhosseini">
-      <img width="70" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="My Telegram" />
+      <img width="65" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="My Telegram" />
    </a>
    <a href="https://join.skype.com/invite/yhDOnf4ygYNK">
-      <img width="70" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="My Skype" />
+      <img width="65" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="My Skype" />
    </a>
    <a href="mailto:shapourdisco78@gmail.com">
-      <img width="70" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="My Gmail" />
+      <img width="65" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="My Gmail" />
    </a>
 </p>
 
