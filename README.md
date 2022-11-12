@@ -29,17 +29,26 @@
 <!--    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> -->
    <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<!--    <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> -->
 <!--    <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> -->
 </p>
 
 <h2>
-   Some Tools I've used and Learned
+   Contact me
 </h2>
 
 <p align="center">
+   <a href="https://www.linkedin.com/in/alireza-mirhosseini-70712720b/">
+      <img width="70" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="My Linkedin" />
+   </a>
    <a href="https://t.me/alirezamirhosseini">
       <img width="70" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="My Telegram" />
+   </a>
+   <a href="https://join.skype.com/invite/yhDOnf4ygYNK">
+      <img width="70" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="My Skype" />
+   </a>
+   <a href="shapourdisco78@gmail.com">
+      <img width="70" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="My Gmail" />
    </a>
 </p>
 
