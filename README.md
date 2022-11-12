@@ -1,10 +1,10 @@
 <h1 align="center">
-  ### Hi there, I'm Alireza Mirhosseini 👋
+  ### Hi there, I'm Alireza 👋
 </h1>
 
 ![header](https://capsule-render.vercel.app/api?text=SHAPOUR&animation=fadeIn)
 <p align="center">
-  <img src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/giphy%20(4).gif" alt="Shapour gif" />
+  <img width="500" src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/giphy%20(4).gif" alt="Shapour gif" />
 </p>
 <!-- ![giphy (4)](https://user-images.githubusercontent.com/77657205/201484517-9096c9a8-cc2a-4399-913c-c575ff7894a7.gif) -->
 
