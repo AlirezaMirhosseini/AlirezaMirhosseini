@@ -15,8 +15,8 @@
 </h2>
 
 <p align="center">
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=AlirezaMirhosseini&show_icons=true&theme=radical" />
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaMirhosseini&layout=compact&theme=radical" />
+   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlirezaMirhosseini&show_icons=true&theme=radical" />
+   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaMirhosseini&layout=compact&theme=radical" />
 </p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaMirhosseini&show_icons=true&theme=radical)
