@@ -47,7 +47,7 @@
    <a href="https://join.skype.com/invite/yhDOnf4ygYNK">
       <img width="70" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="My Skype" />
    </a>
-   <a href="shapourdisco78@gmail.com">
+   <a href="mailto:shapourdisco78@gmail.com">
       <img width="70" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="My Gmail" />
    </a>
 </p>
