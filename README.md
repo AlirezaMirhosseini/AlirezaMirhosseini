@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="700" src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/giphy%20(4).gif" alt="Shapour gif" />
+  <img width="700" src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/giphy%20(1).gif" alt="Shapour gif" />
 </p>
 
 <h2>
