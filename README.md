@@ -60,10 +60,13 @@
       <img width="65" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="My Telegram" />
    </a>
    <a href="https://join.skype.com/invite/yhDOnf4ygYNK">
-      <img width="65" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="My Skype" />
+      <img width="65" src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/skype.png" alt="My Skype" />
+   </a>
+   <a href="https://twitter.com/AlirezaMirhosni">
+      <img width="65" src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/twitter.png" alt="My Twitter" />
    </a>
    <a href="mailto:shapourdisco78@gmail.com">
-      <img width="65" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="My Gmail" />
+      <img width="65" src="https://github.com/AlirezaMirhosseini/AlirezaMirhosseini/blob/main/gmail.png" alt="My Gmail" />
    </a>
 </p>
 
